@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.one{
+    background-color: coral;
+    text-align: justify;
+    /* border: 2px solid; */
+    padding: 30px;
+    font-size: large;
+}
+
+
+.two{
+    background-color: rgb(80, 217, 255);
+    text-align: justify;
+    /* border: 2px solid; */
+    padding: 30px;
+    font-size: large;
+}
+
+
+h1{
+    font-size: xx-large;
+    padding-bottom: 10px; 
+ }
+ 
